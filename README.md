@@ -1,2 +1,2 @@
 # HouseholdPriceprediction
-Household Price prediction using A
+Household Price prediction using AI
